@@ -1,0 +1,26 @@
+﻿[Initial Release v2.0.0]
+
+
+
+===========================================================================
+
+ [ADDON FÊNIX] Projeto disponível para desenvolvedores. 
+
+Fênix foi criado para incentivar criadores iniciante.
+Addon sem fins lucrativo, diálogo aberto para sugestão de melhorias.
+
+
+
+ Versão BETA, em estágio ainda de desenvolvimento, mas que 
+é considerada 
+aceitável para ser lançada para o público, 
+mesmo que ainda possua 
+atualizações de reparos que precisarão ser 
+revisados pelos desenvolvedores 
+antes do lançamento definitivo
+ na sua versão final.
+
+===========================================================================
+
+
+====================== TEMA VISUAL FÊNIX EVOLUTION ========================
