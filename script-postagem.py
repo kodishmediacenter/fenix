@@ -28,8 +28,8 @@ fanart3 = re.search('data-src(.*)',fanart2).group(0)
 fanart4 = re.sub('" data-srcset=(.*)',r'',fanart3)
 
 t1 = nome2.replace('[<meta content="','').replace('" property="og:title"/>]','')
-t2 = sinopse2.replace('[<meta content="','').replace('" property="og:description"/>]','').decode('UTF-8')
-t3 = thumb2.replace('[<meta content="','').replace('" property="og:image"/>]','').replace('" property="og:image"/>, <meta content="','\n').replace('','').decode('UTF-8')
+t2 = sinopse2.replace('[<meta content="','').replace('" property="og:description"/>]','')
+t3 = thumb2.replace('[<meta content="','').replace('" property="og:image"/>]','').replace('" property="og:image"/>, <meta content="','\n').replace('','')
 t4 = fanart4.replace('data-src="','')
 
 print("<channels></channels>")
